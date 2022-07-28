@@ -58,6 +58,7 @@ public class GooglePageTest {
 		System.out.println("Page Title :" + pageTitle);
 		System.out.println("current URL :" + driver.getCurrentUrl());
                  System.out.println("Modified by Tester2 :");
+                 System.out.println("Modified in stage2 :");
 		driver.close();
 		
 	}
