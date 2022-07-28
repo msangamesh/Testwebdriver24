@@ -57,7 +57,7 @@ public class GooglePageTest {
 		String pageTitle = driver.getTitle();
 		System.out.println("Page Title :" + pageTitle);
 		System.out.println("current URL :" + driver.getCurrentUrl());
-
+                 System.out.println("Modified by Tester2 :");
 		driver.close();
 		
 	}
